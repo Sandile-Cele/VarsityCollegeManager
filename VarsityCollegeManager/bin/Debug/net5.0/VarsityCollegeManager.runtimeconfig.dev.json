@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/sandile/.dotnet/store/|arch|/|tfm|",
+      "/home/sandile/.nuget/packages"
+    ]
+  }
+}

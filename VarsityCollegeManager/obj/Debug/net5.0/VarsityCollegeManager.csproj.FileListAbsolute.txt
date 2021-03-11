@@ -1,0 +1,16 @@
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/bin/Debug/net5.0/VarsityCollegeManager
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/bin/Debug/net5.0/VarsityCollegeManager.deps.json
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/bin/Debug/net5.0/VarsityCollegeManager.runtimeconfig.json
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/bin/Debug/net5.0/VarsityCollegeManager.runtimeconfig.dev.json
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/bin/Debug/net5.0/VarsityCollegeManager.dll
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/bin/Debug/net5.0/ref/VarsityCollegeManager.dll
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/bin/Debug/net5.0/VarsityCollegeManager.pdb
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/VarsityCollegeManager.csprojAssemblyReference.cache
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/VarsityCollegeManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/VarsityCollegeManager.AssemblyInfoInputs.cache
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/VarsityCollegeManager.AssemblyInfo.cs
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/VarsityCollegeManager.csproj.CoreCompileInputs.cache
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/VarsityCollegeManager.dll
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/ref/VarsityCollegeManager.dll
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/VarsityCollegeManager.pdb
+/home/sandile/Repo/SandileCele_GitHub/VarsityCollegeManager/VarsityCollegeManager/obj/Debug/net5.0/VarsityCollegeManager.genruntimeconfig.cache

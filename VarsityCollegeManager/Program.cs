@@ -6,7 +6,18 @@ namespace VarsityCollegeManager
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Welcome \n Show list of students?");
+            bool showList = Convert.ToBoolean(Console.ReadLine());
+
+            Console.Write("List...");
         }
+    }
+
+    class Student{
+
+    }
+
+    class FullTime : Student{
+
     }
 }

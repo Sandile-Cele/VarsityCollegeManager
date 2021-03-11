@@ -1,0 +1,8 @@
+namespace VarsityCollegeManager
+{
+    class StudentData
+    {
+        
+    }
+    
+}

@@ -6,6 +6,14 @@ namespace Name
         string name, surname;
         int studentNumber, age;
 
+        public string getName(){
+            return name;
+        }
+
+        public Student(){
+            
+        }
+
         public Student(string name, string surname, int studentNumber, int age)
         {
             this.Name = name;

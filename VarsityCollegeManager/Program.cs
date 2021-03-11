@@ -6,18 +6,20 @@ namespace VarsityCollegeManager
     {
         static void Main(string[] args)
         {
-            Console.Write("Welcome \n Show list of students?");
-            bool showList = Convert.ToBoolean(Console.ReadLine());
+            Console.WriteLine("Populating data...");
+            StudentData.populateDic();
+            Console.WriteLine("Done.");
+            
+            Console.WriteLine("Printing list...");
+            
+            StudentData obj1 = new StudentData();
 
-            Console.Write("List...");
+            int i = 1;
+            foreach(FullTimeStudent stuLst in StudentData.fullTimeStudentDic){
+                Console.WriteLine("Name of no." + i + " student is: " + stuLst.Name);
+                Console.WriteLine("Age of no." + i++ + " student is: " + stuLst.Age);
+                Console.WriteLine("------------------------\n");
+            }
         }
-    }
-
-    class Student{
-
-    }
-
-    class FullTime : Student{
-
     }
 }

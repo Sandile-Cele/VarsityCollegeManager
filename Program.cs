@@ -7,19 +7,22 @@ namespace VarsityCollegeManager
         static void Main(string[] args)
         {
             Console.WriteLine("Populating data...");
-            StudentData
-            DataManager.populateDic();
-            Console.WriteLine("Done.");
-            
-            Console.WriteLine("Printing list...");
-            
-            StudentData obj1 = new StudentData();
+            StudentDataManager.populateDic();
+            Console.WriteLine("Done.\nPrinting list...");
 
+            printStdLst();
+        }
+
+        static void printStdLst(){
             int i = 1;
-            foreach(FullTimeStudent stuLst in StudentData.fullTimeStudentDic){
-                Console.WriteLine("Name of no." + i + " student is: " + stuLst.Name);
-                Console.WriteLine("Age of no." + i++ + " student is: " + stuLst.Age);
-                Console.WriteLine("------------------------\n");
+            foreach(FullTimeStudent stuLstObj in StudentData.fullTimeStudentDic){
+                Console.WriteLine("Student: " + i);
+                Console.WriteLine("Name: " + stuLstObj.Name);
+                Console.WriteLine("surname: " + stuLstObj.Surname);
+                Console.WriteLine("Age: " + stuLstObj.Age);
+                Console.WriteLine("STDno: " + stuLstObj.StudentNumber);
+                Console.WriteLine("Venue no: " + stuLstObj.VenueNum);
+                Console.WriteLine("------------Done" + i + "------------\n");
             }
         }
     }

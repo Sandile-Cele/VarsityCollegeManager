@@ -3,8 +3,8 @@ namespace Name
         
     public abstract class Student
     {
-        string name, surname;
-        int studentNumber, age;
+        private string name, surname;
+        private int studentNumber, age;
 
         public string getName(){
             return name;

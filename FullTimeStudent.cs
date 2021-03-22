@@ -8,11 +8,14 @@ namespace VarsityCollegeManager{
         public FullTimeStudent()
         {
         }
-        public FullTimeStudent(int venueNum, Student inStudent) : base()
+        public FullTimeStudent(string name, string surname, int studentNumber, int age, int venueNum)
         {
+            this.Name = name;
+            this.Surname = surname;
+            this.StudentNumber = studentNumber;
+            this.Age = age;
             this.VenueNum = venueNum;
         }
-
 
         public int VenueNum { get => venueNum; set => venueNum = value; }
     }

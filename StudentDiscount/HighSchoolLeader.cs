@@ -1,8 +1,8 @@
 namespace VarsityCollegeManager{
 
-    class Distinction : StudentDiscount{
+    class HighSchoolLeader : StudentDiscount{
         public double getDiscount(){
-            return  0.1;
+            return  0.2;
         }
     }
 }

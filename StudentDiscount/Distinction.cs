@@ -1,0 +1,6 @@
+namespace VarsityCollegeManager{
+
+    class Distinction{
+        
+    }
+}

@@ -1,6 +1,6 @@
 namespace Name
 {
-        
+    //S, accessing student
     public abstract class Student
     {
         private string name, surname;

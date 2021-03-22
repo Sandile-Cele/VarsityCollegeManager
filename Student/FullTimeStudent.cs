@@ -1,6 +1,7 @@
 using Name;
 
 namespace VarsityCollegeManager{
+    //S, accessing FullTimeStudent obj
     class FullTimeStudent : Student{
         
         int venueNum;//Based on assumption that Full Time Students only have on venue

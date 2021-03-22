@@ -2,15 +2,21 @@
 
 namespace VarsityCollegeManager
 {
+    //S, running the program
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Populating data...");
-            StudentDataManager.populateDic();
+            StudentDataManager.populateFtlList();
             Console.WriteLine("Done.\nPrinting list...");
 
             printStdLst();
+            Console.Write("Enter a new of a PTstudent:");
+            PartimeStudent PtsObj = new PartimeStudent();
+            PtsObj.Name = Console.ReadLine();
+            Console.Write("Done.");
+
         }
 
         static void printStdLst(){
@@ -22,8 +28,9 @@ namespace VarsityCollegeManager
                 Console.WriteLine("Age: " + stuLstObj.Age);
                 Console.WriteLine("STDno: " + stuLstObj.StudentNumber);
                 Console.WriteLine("Venue no: " + stuLstObj.VenueNum);
-                Console.WriteLine("------------Done" + i + "------------\n");
+                Console.WriteLine("------------Done" + i++ + "------------\n");
             }
+            i = 1;//reset
         }
     }
 }

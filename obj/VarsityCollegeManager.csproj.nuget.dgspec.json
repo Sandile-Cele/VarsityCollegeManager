@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager\\VarsityCollegeManager.csproj": {}
+    "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager\\VarsityCollegeManager.csproj": {
+    "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager\\VarsityCollegeManager.csproj",
+        "projectUniqueName": "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager.csproj",
         "projectName": "VarsityCollegeManager",
-        "projectPath": "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager\\VarsityCollegeManager.csproj",
+        "projectPath": "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager.csproj",
         "packagesPath": "C:\\Users\\Sandi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\VarsityCollegeManager\\obj\\",
+        "outputPath": "C:\\Users\\Sandi\\source\\repos\\Personal_GitHub\\VarsityCollegeManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sandi\\AppData\\Roaming\\NuGet\\NuGet.Config",

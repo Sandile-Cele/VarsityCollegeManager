@@ -1,7 +1,7 @@
 namespace Name
 {
         
-    public class Student
+    public abstract class Student
     {
         string name, surname;
         int studentNumber, age;

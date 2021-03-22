@@ -7,7 +7,8 @@ namespace VarsityCollegeManager
         static void Main(string[] args)
         {
             Console.WriteLine("Populating data...");
-            StudentData.populateDic();
+            StudentData
+            DataManager.populateDic();
             Console.WriteLine("Done.");
             
             Console.WriteLine("Printing list...");

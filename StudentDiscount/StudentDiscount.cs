@@ -1,8 +1,8 @@
 namespace VarsityCollegeManager{
 
-    //S,
+    //S, discount logic only
     //O, Can add more discounts if you want
-    abstract class StudentDiscount{
-        
+    class StudentDiscount{
+        //Sudent discount logic
     }
 }
